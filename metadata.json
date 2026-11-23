@@ -1,0 +1,6 @@
+{
+  "name": "에어로 스트라이크",
+  "description": "고공 전략 아케이드 슈팅 게임 - 다양한 적 편대와 거대 보스를 격추하고 최고 기록에 도전하세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
